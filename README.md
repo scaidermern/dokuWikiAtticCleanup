@@ -46,3 +46,8 @@ use [curlftpfs](http://curlftpfs.sourceforge.net/) to mount it locally.
                          dir), uses the current working directory if omitted
       -n, --no-act       dry-run, just show which files would have been deleted
       -v, --verbose      print detailed information about each file
+
+License
+-------
+[GPL v3](http://www.gnu.org/licenses/gpl.html)
+(c) [Alexander Heinlein](http://choerbaert.org)
